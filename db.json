@@ -1,0 +1,16 @@
+[
+  {
+    "name": "harry",
+    "email": "harry@gmail.com",
+    "phone": "1234567890",
+    "github_link": "https://github.com/harry_task_2",
+    "stopwatch_time": "00:00:07"
+  },
+  {
+    "name": "Deepak Singh",
+    "email": "deepaks.rawat144@gmail.com",
+    "phone": "8192059512",
+    "github_link": "https://github.com/Deepak5189",
+    "stopwatch_time": "00:00:36"
+  }
+]
